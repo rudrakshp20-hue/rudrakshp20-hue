@@ -1,5 +1,84 @@
-# 💫 Hi, I'm Rudraksh (Medix)
-╭────────────────────── 👨‍💻 ABOUT ME ──────────────────────╮<br><br>🛠 Currently Building<br>   • 🤖 AI CLI Agent<br><br>🌱 Currently Learning<br>   • 🧠 AI Engineering & LLMs<br><br>🤝 Looking to Collaborate On<br>   • 🌍 Open-Source Projects<br>   • 🤖 AI & Automation<br>   • 🛠 Developer Tools<br><br>💬 Ask Me About<br>   • 🐍 Python<br>   • ☕ Java<br>   • 🌐 Web Development<br>   • 🐧 Linux<br><br>🎯 Current Goals<br>   • 🚀 Build impactful open-source software<br>   • ⭐ Create AI-powered developer tools<br>   • 📚 Learn something new every day<br>   • 🤝 Contribute to the developer community<br><br>⚡ Fun Fact<br>   • I enjoy turning ambitious ideas into polished software,<br>     learning by building real-world projects from scratch.<br><br>├────────────────── 🛠 TECH INTERESTS ──────────────────┤<br><br>🤖 AI Engineering        ▰▰▰▰▰▰▰▰▰▰ 100%<br>🔐 Cybersecurity         ▰▰▰▰▰▰▰▰▰▰ 100%<br>☕ Java Development      ▰▰▰▰▰▰▰▰▰▱ 90%<br>🐍 Python                ▰▰▰▰▰▰▰▰▰▱ 90%<br>🎮 Minecraft Dev         ▰▰▰▰▰▰▰▰▰▱ 90%<br>📱 Android Development   ▰▰▰▰▰▰▰▰▱▱ 80%<br>🌐 Web Development       ▰▰▰▰▰▰▰▰▱▱ 80%<br>🐧 Linux                 ▰▰▰▰▰▰▰▱▱▱ 70%<br>⚙️ Automation            ▰▰▰▰▰▰▰▱▱▱ 70%<br>☁️ Cloud Computing       ▰▰▰▰▰▰▱▱▱▱ 60%<br><br>╰──────────────────────────────────────────────────────╯
+<h1 align="left">👋 Hi, I'm Rudraksh (Medix)</h1>
+
+<p align="left">
+Building AI-powered developer tools • Open Source Enthusiast • Always Learning
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate developer from **India** who enjoys building modern software, exploring **Artificial Intelligence**, and creating tools that solve real-world problems.
+
+I enjoy turning ambitious ideas into polished software by learning through hands-on projects and continuously expanding my knowledge across different technologies.
+
+<br>
+
+### 🚀 Currently Building
+
+- 🤖 AI CLI Agent
+
+### 🌱 Currently Learning
+
+- 🧠 AI Engineering
+- 🤖 Large Language Models (LLMs)
+- 🏗️ System Design
+
+### 🤝 Open to Collaborate On
+
+- 🌍 Open Source Projects
+- 🤖 AI & Automation
+- 🛠️ Developer Tools
+
+### 💬 Ask Me About
+
+- 🐍 Python
+- ☕ Java
+- 🌐 Web Development
+- 🐧 Linux
+
+### 🎯 Current Goals
+
+- 🚀 Build impactful open-source software
+- ⭐ Create AI-powered developer tools
+- 📚 Learn something new every day
+- ❤️ Contribute to the developer community
+
+---
+
+## 🛠️ Tech Interests
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/AI%20Engineering-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-3B82F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Minecraft%20Development-62B47A?style=for-the-badge&logo=minecraft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20Development-0EA5E9?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Automation-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Computing-06B6D4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+</p>
+
+---
+
+## 💼 What I Enjoy Building
+
+- 🤖 AI Applications & LLM-powered Tools
+- ⚙️ Developer Productivity Software
+- 🛠️ Command Line Utilities
+- 🌐 Full-Stack Web Applications
+- 📱 Android Applications
+- ☁️ Cloud-integrated Projects
+
+---
+
+## ⚡ Fun Fact
+
+> *"I enjoy transforming ambitious ideas into polished software by building real-world projects from scratch."*
 
 <!-- Snake Game Repo View -->
 
