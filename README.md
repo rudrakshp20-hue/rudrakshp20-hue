@@ -2,7 +2,7 @@
 
 ## Status: Scheduled Maintenance in Progress
 
-Please be advised that my GitHub and GitLab profiles are currently undergoing our routine system checkup and maintenance cycle. This periodic procedure is designed to optimize performance, update configurations, and ensure seamless synchronization across all platform integrations.
+Please be advised that GitHub and GitLab profiles are currently undergoing our routine system checkup and maintenance cycle. This periodic procedure is designed to optimize performance, update configurations, and ensure seamless synchronization across all platform integrations.
 
 **Impact:** During this brief window, you might notice temporary limitations when viewing repositories, contributions, or public profile pages directly. Rest assured that all core systems are operating smoothly.
 
@@ -25,9 +25,6 @@ The routine maintenance is brief and typically completed swiftly. All profile fe
 *   **Collaboration:** Standard collaborative workflows will resume their normal visibility as soon as the routine refresh concludes.
 *   **Seamless Continuity:** This brief update has zero impact on our ongoing projects, technical capabilities, or the quality of our collaboration.
 
-## Contact & Updates
-
-If you have any questions or need assistance with ongoing tasks during this maintenance window, please feel free to reach out directly through this chat. 
 
 ---
 
